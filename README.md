@@ -51,4 +51,4 @@ Run the code cells in the notebook
 Contributions
 This project welcomes contributions from others. If you would like to contribute, please fork the repository and make a pull request.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khouloudCh15/Time-Series-Forecasting/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khouloudCh15/Time-Series-Forecasting/HEAD)
